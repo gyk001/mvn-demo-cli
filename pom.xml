@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>cn.com.sinosoft.ie.mvn</groupId>
 		<artifactId>basic-cli</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>0.0.1.1-SNAPSHOT</version>
 	</parent>
 	<groupId>cn.com.sinosoft.ie.mvn</groupId>
 	<artifactId>demo</artifactId>
